@@ -24,19 +24,15 @@ Evaluation results:
 	Used event logs: 
 	
 		BPI-Challenge 2012
-		BPI-Challenge 2015
 		Domestic Declaration Log
 		International Declaration Log
 		Permit Log
 		Prepaid Travel Cost Log
 		Request for Payment Log
 		Sepsis Log
-		CoSeLoG WABO 2
-		CoSeLoG WABO 3
 
 	Used quality measures for the samples:
 	
-		Eath mover´s distance
 		coverage
 		MAE
 		NMAE
