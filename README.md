@@ -19,7 +19,7 @@ Code:
 
 Evaluation results:
 	
-	The Evaluation results are exported as excel-files and plotted graphs in the folder "evaluation_results". The results for the Earth mover´s distance (emd) are seperate, as for the emd only 9 of the 10 event logs computed in a reasonoable amount of time.
+	The Evaluation results are exported as excel-files and plotted graphs in the folder "evaluation_results". 
 	
 	Used event logs: 
 	
@@ -31,7 +31,7 @@ Evaluation results:
 		Request for Payment Log
 		Sepsis Log
 
-	Used quality measures for the samples:
+	Used quality measures for the samples and model evaluation:
 	
 		coverage
 		MAE
@@ -48,3 +48,7 @@ Evaluation results:
 		percentage of DFRs within 1 % of ideal
 		percentage of DFRs within 5 % of ideal
 		percentage of DFRs within 10 % of ideal
+		
+		F1-Score
+		
+	
